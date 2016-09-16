@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.wes-energia.com/</loc>
+  <lastmod>2016-06-13T17:40:04+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.wes-energia.com/index.html</loc>
+  <lastmod>2016-06-13T17:40:04+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.wes-energia.com/como-funciona-um-sistema-de-energia-solar.html</loc>
+  <lastmod>2015-12-07T20:24:26+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.wes-energia.com/cursos.html</loc>
+  <lastmod>2016-03-28T12:16:58+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.wes-energia.com/contato.html</loc>
+  <lastmod>2015-12-11T19:30:51+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.wes-energia.com/projeto-e-dimensionamento-de-sistemas-fotovoltaicos.html</loc>
+  <lastmod>2016-03-28T13:48:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.wes-energia.com/instalacao-de-sistemas-fotovoltaicos.html</loc>
+  <lastmod>2015-12-07T20:23:20+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
