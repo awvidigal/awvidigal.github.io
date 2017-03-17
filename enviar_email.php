@@ -22,6 +22,7 @@ cadastrado para receber o formulário*/
        $corpo = "Formulário enviado\n";
        $corpo .= "Nome: " . $name . "\n";
        $corpo .= "Email: " . $email . "\n";
+       $corpo .= "Assunto: " . $subject . "\n";
        $corpo .= "Comentários: " . $message . "\n";
 
        $email_to = 'awvidigal@wes-energia.com'; 
